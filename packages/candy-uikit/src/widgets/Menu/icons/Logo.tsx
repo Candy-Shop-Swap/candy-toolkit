@@ -472,8 +472,9 @@ const Logo: React.FC<LogoProps> = ({ isDark, ...props }) => {
               fontSize={17.974}
               fontFamily="Montserrat-Bold"
               fill="#f23030"
+              fontWeight="bold"
             >
-              {"CandySwap"}
+              {" CandySwap"}
             </text>
           </g>
         </g>
