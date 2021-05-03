@@ -468,12 +468,11 @@ const Logo: React.FC<LogoProps> = ({ isDark, ...props }) => {
           </g>
           <g>
             <text
-              transform="translate(30.335 20.775)"
+              transform="translate(35.335 20.775)"
               fontSize={17.974}
               fontFamily="Montserrat-Bold"
               fill="#f23030"
               fontWeight="bold"
-              offset="5px"
             >
               {"CandySwap"}
             </text>
