@@ -474,7 +474,7 @@ const Logo: React.FC<LogoProps> = ({ isDark, ...props }) => {
               fill="#f23030"
               fontWeight="bold"
             >
-              {" CandySwap"}
+              {"&nbsp;CandySwap"}
             </text>
           </g>
         </g>
